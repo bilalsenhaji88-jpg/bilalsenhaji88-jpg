@@ -1,100 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,100:0d1117&height=200&section=header&text=Bilal%20Essanhaji&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=JavaScript%20Developer%20%7C%20Building%20in%20Public&descSize=18&descAlignY=60" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Mastering+JavaScript+%F0%9F%9A%80;Building+real-world+projects;Learning+in+public%2C+one+commit+at+a+time;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6" alt="Typing SVG" />
-</a>
+<img src="assets/space-banner.svg" alt="Bilal Essanhaji — Explore. Create. Evolve." width="100%"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bilal-essanhaji-368654328/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=F7DF1E&style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0b1020?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/bilalsenhaji88-jpg)
+[![Morocco](https://img.shields.io/badge/Based_in-Morocco-0b1020?style=for-the-badge&logo=googlemaps&logoColor=a78bfa)](https://github.com/bilalsenhaji88-jpg)
+[![YouCode](https://img.shields.io/badge/Learning_at-YouCode-0b1020?style=for-the-badge&logo=codeforces&logoColor=22d3ee)](https://youcode.ma/)
+
+**`EXPLORE THE UNKNOWN · BUILD WITH PURPOSE · KEEP EVOLVING`**
 
 </div>
 
 ---
 
-## 👋 About Me
+## `01 / TRANSMISSION` — About Me
 
-I'm **Bilal**, a developer from Morocco 🇲🇦 on a mission to **master JavaScript** and turn it into real products.
-I believe in learning by building: every concept I study becomes a small project.
+Hi, I'm **Bilal Essanhaji**, an aspiring software developer from Morocco 🇲🇦.
 
-- 🔭 Currently deep-diving into **JavaScript (closures, async, the event loop)**
-- 🌱 Next up: **Node.js, TypeScript & React**
-- 💡 Goal: become a confident **full-stack developer**
-- 🤝 Open to collaboration, internships, and junior opportunities
-- 🌍 Languages: Arabic · French · English
+I'm currently studying at **YouCode**, building my foundations through hands-on projects, collaboration, and continuous practice. I enjoy understanding how things work, solving problems, and turning ideas into useful digital experiences.
 
----
+- 🎓 Currently learning and building at **YouCode**
+- 💻 Focused on **JavaScript and web development**
+- 🧠 Interested in **problem-solving, software engineering, and AI**
+- 🚀 Learning by building projects and improving them step by step
 
-## 🛠️ Tech Stack
+> *“The best way to predict the future is to build something for it.”*
+
+## `02 / TECHNOLOGY` — My Toolkit
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+**Languages & Web**
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS, JavaScript"/>
+
+**Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux"/>
 
 </div>
 
-**Learning next:**
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+## `03 / MISSION LOG` — Current Focus
 
----
+| Mission | Status |
+|---|---|
+| Strengthen JavaScript fundamentals | `IN PROGRESS` |
+| Build responsive web experiences | `IN PROGRESS` |
+| Improve problem-solving skills | `IN PROGRESS` |
+| Practice Git and collaborative workflows | `IN PROGRESS` |
+| Explore AI and modern technologies | `EXPLORING` |
 
-## 🗺️ My JavaScript Mastery Roadmap
+## `04 / FLIGHT DECK` — Selected Projects
 
-- [x] Fundamentals: variables, functions, arrays, objects
-- [ ] Advanced JS: scope, closures, `this`, prototypes, classes
-- [ ] Asynchronous JS: Promises, `async/await`, Event Loop
-- [ ] DOM & browser APIs
-- [ ] Projects: To-Do app, Weather app, Quiz game
-- [ ] Node.js & REST APIs
-- [ ] TypeScript & React
+| Project | What it is | Stack |
+|---|---|---|
+| [Élan Fitness](https://github.com/bilalsenhaji88-jpg?tab=repositories) | A multi-page gym website project | HTML · CSS |
+| [Election Management](https://github.com/bilalsenhaji88-jpg?tab=repositories) | A console-based election management project | JavaScript |
 
----
+More experiments and projects are being built.  
+**[Explore all repositories →](https://github.com/bilalsenhaji88-jpg?tab=repositories)**
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🚧 **Coming soon** | My first project is in progress | JavaScript |
-| 🚧 **Coming soon** | Weather app using a public API | JavaScript, Fetch |
-| 🚧 **Coming soon** | Interactive quiz game | JavaScript, DOM |
-
----
-
-## 📊 GitHub Stats
+## `05 / TELEMETRY` — GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bilalsenhaji88-jpg&show_icons=true&hide_border=true&bg_color=0b1020&title_color=22d3ee&icon_color=a78bfa&text_color=e2e8f0&rank_icon=github" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsenhaji88-jpg&layout=compact&hide_border=true&bg_color=0b1020&title_color=22d3ee&text_color=e2e8f0" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalsenhaji88-jpg&bg_color=0b1020&color=22d3ee&line=8b5cf6&point=e2e8f0&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+</div>
+
+## `06 / CONNECTION` — Find Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0b1020?style=for-the-badge&logo=github&logoColor=22d3ee)](https://github.com/bilalsenhaji88-jpg)
 
 </div>
 
 ---
 
-## 💬 Let's Connect
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/bilal-essanhaji-368654328/">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+**`END OF TRANSMISSION`**
 
-*"First, solve the problem. Then, write the code."*
+*Keep learning. Keep building. Stay curious.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:F7DF1E&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0b1020,50:172554,100:312e81" width="100%" alt="Space-themed footer"/>
 
 </div>

@@ -1,130 +1,162 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,50:0F172A,100:312E81&text=NEXUS%20%2F%2F%20BILAL.OS&fontColor=00F5FF&fontSize=42&fontAlignY=48&desc=DIGITAL%20IDENTITY%20%E2%80%A2%20DEVELOPER%20ENVIRONMENT&descSize=12&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,45:111B3D,100:7028FF&text=BILAL%20ESSANHAJI&fontSize=48&fontColor=00E5FF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=58&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=%3E+SYSTEM+INITIALIZED...;%3E+WELCOME+TO+MY+DIGITAL+UNIVERSE;%3E+THINK.+CODE.+CREATE.;%3E+THE+FUTURE+IS+BUILT%2C+NOT+PREDICTED."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe.;I+turn+ideas+into+code.;Learning+today.+Building+tomorrow.;Always+exploring+what's+possible." />
 
 <br/>
 
-`[ SYSTEM STATUS: ONLINE ]` &nbsp; ` [ USER: BILAL ]` &nbsp; `[ ACCESS: PUBLIC ]`
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/bilalsenhaji88-jpg)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6)](https://github.com/bilalsenhaji88-jpg?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=bilalsenhaji88-jpg&style=for-the-badge&color=7028FF)](https://github.com/bilalsenhaji88-jpg)
 
 </div>
 
 ---
 
-### `01 // IDENTITY_PROTOCOL`
+<h2 align="center">◈ WHO AM I?</h2>
 
-```bash
-$ whoami
+<table>
+<tr>
+<td width="60%" valign="top">
 
-Bilal Essanhaji
-Software Developer in Progress
-Based in Morocco 🇲🇦
-Currently studying at YouCode
+### `>_ The Developer`
 
-$ cat philosophy.txt
+I'm **Bilal Essanhaji**, an aspiring software developer from Morocco 🇲🇦.
 
-Learn relentlessly.
-Build intelligently.
-Think independently.
-```
+Currently studying at **YouCode**, where I'm developing my programming skills through hands-on projects, collaboration and continuous learning.
 
-I am an aspiring software developer passionate about technology, problem-solving, and creating meaningful digital experiences.
+I'm passionate about understanding how technology works and transforming ideas into practical solutions.
 
-I believe that becoming a great developer is not about knowing everything — it's about understanding, experimenting, and continuously improving.
+**My mindset:**
+
+- Build with purpose.
+- Learn through experimentation.
+- Solve problems creatively.
+- Never stop improving.
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=github,js,html,css&theme=dark" width="200"/>
+
+<br/>
+
+**LEARN // BUILD // EVOLVE**
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `02 // TECHNOLOGY_MATRIX`
+<h2 align="center">◈ TECH ARSENAL</h2>
 
 <div align="center">
 
-| CATEGORY | TECHNOLOGIES |
-|:---:|:---|
-| FRONTEND | HTML · CSS · JavaScript |
-| VERSION CONTROL | Git · GitHub |
-| ENVIRONMENT | VS Code · Linux |
+### Languages & Web Development
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux&theme=dark"/>
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
-### `03 // ACTIVE_MISSIONS`
+<h2 align="center">◈ CURRENT OPERATIONS</h2>
 
-```yaml
-MISSION_01:
-  objective: Master JavaScript
-  status: IN_PROGRESS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-MISSION_02:
-  objective: Build real-world projects
-  status: IN_PROGRESS
+### ⚡ Current Focus
 
-MISSION_03:
-  objective: Improve problem-solving
-  status: IN_PROGRESS
+- Mastering JavaScript.
+- Strengthening programming fundamentals.
+- Developing responsive interfaces.
+- Improving problem-solving.
+- Building real-world projects.
 
-MISSION_04:
-  objective: Explore Artificial Intelligence
-  status: EXPLORING
-```
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Mission Objectives
+
+- Become a professional software developer.
+- Build a strong technical portfolio.
+- Explore Artificial Intelligence.
+- Contribute to meaningful projects.
+- Keep pushing beyond my limits.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### `04 // PROJECT_ARCHIVE`
+<h2 align="center">◈ PROJECT DATABASE</h2>
 
 <div align="center">
 
 <a href="https://github.com/bilalsenhaji88-jpg?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN_PROJECT_ARCHIVE-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/ACCESS_ALL_PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
 
 </div>
 
-| PROJECT ID | DESCRIPTION |
-|:---|:---|
-| `ELAN-001` | Élan Fitness — Multi-page website |
-| `JS-002` | Election Management — JavaScript CLI |
-| `NEXT-003` | More experiments coming soon |
+**Selected work:**
+
+| Project | Description | Technologies |
+|---|---|---|
+| Élan Fitness | Responsive multi-page gym website | HTML · CSS |
+| Election Management | Console-based election management application | JavaScript |
+| More projects | Exploring, experimenting and building | In progress |
 
 ---
 
-### `05 // SYSTEM_ACTIVITY`
+<h2 align="center">◈ GITHUB STATISTICS</h2>
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bilalsenhaji88-jpg&show_icons=true&hide_border=true&bg_color=020617&title_color=00F5FF&icon_color=8B5CF6&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bilalsenhaji88-jpg&show_icons=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=8B5CF6&text_color=E6EDF3&rank_icon=github"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsenhaji88-jpg&layout=compact&hide_border=true&bg_color=020617&title_color=00F5FF&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilalsenhaji88-jpg&layout=compact&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=E6EDF3"/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalsenhaji88-jpg&bg_color=020617&color=00F5FF&line=8B5CF6&point=FFFFFF&hide_border=true"/>
+<br/><br/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalsenhaji88-jpg&hide_border=true&background=050816&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=8B949E"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bilalsenhaji88-jpg&bg_color=050816&color=00E5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-### `06 // CONNECTION_GATEWAY`
+<h2 align="center">◈ BEYOND THE CODE</h2>
 
 <div align="center">
 
+<img width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=CODE%20TODAY...&fontSize=35&fontColor=00E5FF&fontAlignY=40"/>
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=transparent&height=75&text=LEAD%20TOMORROW.&fontSize=32&fontColor=8B5CF6&fontAlignY=50"/>
+
+<br/>
+
+**The future belongs to those who build it.**
+
+<br/>
+
 <a href="https://github.com/bilalsenhaji88-jpg">
-<img src="https://img.shields.io/badge/GITHUB-ACCESS-00F5FF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/LET'S_CONNECT-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <br/><br/>
 
-```text
-> CONNECTION ESTABLISHED
-> THANK YOU FOR VISITING
-> END OF TRANSMISSION_
-```
-
-**THINK BEYOND THE CODE.**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:312E81,50:0F172A,100:020617"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7028FF,50:111B3D,100:050816"/>
 
 </div>
